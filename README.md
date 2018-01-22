@@ -1,6 +1,6 @@
 # meteor-reactive-dict-invalidate-key
 
-A new method ```invalidateKey``` for [```ReaсtiveDict```](https://atmospherejs.com/meteor/reactive-dict) invalidates one key in the dictionary without changing its value.
+A new method ```invalidateKey``` and ```invalidateAllKeys``` for [```ReaсtiveDict```](https://atmospherejs.com/meteor/reactive-dict) invalidates one or some keys in the dictionary without changing their values.
 
 ```js
 ...

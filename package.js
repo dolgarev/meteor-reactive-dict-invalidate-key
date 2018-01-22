@@ -4,7 +4,7 @@ Package.describe({
   name: 'liberation:reactive-dict-invalidate-key',
   version: '0.0.2',
   // Brief, one-line summary of the package.
-  summary: 'A new methods "invalidateKey" and "invalidateAllKeys" for ReaсtiveDict.',
+  summary: 'A new method "invalidateKey" and "invalidateAllKeys" for ReaсtiveDict.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/dolgarev/meteor-reactive-dict-invalidate-key.git',
   // By default, Meteor will default to using README.md for documentation.
