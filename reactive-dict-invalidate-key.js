@@ -1,3 +1,5 @@
+import { ReactiveDict } from 'meteor/reactive-dict'
+
 (function () {
   const proto = ReactiveDict.prototype
   const __invalidateKey = proto.invalidateKey
